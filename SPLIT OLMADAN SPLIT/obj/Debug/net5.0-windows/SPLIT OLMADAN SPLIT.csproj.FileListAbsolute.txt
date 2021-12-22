@@ -1,0 +1,18 @@
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\bin\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.exe
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\bin\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.deps.json
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\bin\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.runtimeconfig.json
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\bin\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.runtimeconfig.dev.json
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\bin\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.dll
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\bin\Debug\net5.0-windows\ref\SPLIT OLMADAN SPLIT.dll
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\bin\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.pdb
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.csproj.AssemblyReference.cache
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT_OLMADAN_SPLIT.Form1.resources
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.csproj.GenerateResource.cache
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.AssemblyInfoInputs.cache
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.AssemblyInfo.cs
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.csproj.CoreCompileInputs.cache
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.dll
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\ref\SPLIT OLMADAN SPLIT.dll
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.pdb
+C:\Users\EnginCan\source\repos\SPLIT OLMADAN SPLIT\SPLIT OLMADAN SPLIT\obj\Debug\net5.0-windows\SPLIT OLMADAN SPLIT.genruntimeconfig.cache
